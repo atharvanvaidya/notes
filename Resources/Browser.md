@@ -33,4 +33,13 @@ Browser
  * [Cryptii - Best tool for Crypto CTF Challenges](https://cryptii.com/)
  * [Prepare for CTFs - Medium Writeup](https://medium.com/hackcura/how-to-prepare-for-ctfs-and-start-playing-ctfs-7e9d1fd169ee)
  * [Bash Academy](https://guide.bash.academy/)
- 
+ * [Learn git and Github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+ * [Intro to pwn - zh3r0CTF](https://medium.com/zh3r0/intro-to-pwn-protstar-stacks-9fcd22be2b2)
+ * [Shellcodes - All architectures](http://shell-storm.org/shellcode/)
+ * [Best CTF for Practice](https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/)
+ * [Another List of CTF Practice Sites](https://captf.com/practice-ctf/)
+ * [Alfred - A CTF toolkit for beginners](https://github.com/D4mianWayne/Alfred)
+ * [MemLabs - Forensics Labs](https://github.com/stuxnet999/MemLabs)
+ * [Volatility Command reference](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference)
+ * [Git from bottom up - Great resource to learn Git](https://jwiegley.github.io/git-from-the-bottom-up/)
+ * 
