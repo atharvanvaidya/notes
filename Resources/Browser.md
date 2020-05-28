@@ -42,4 +42,13 @@ Browser
  * [MemLabs - Forensics Labs](https://github.com/stuxnet999/MemLabs)
  * [Volatility Command reference](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference)
  * [Git from bottom up - Great resource to learn Git](https://jwiegley.github.io/git-from-the-bottom-up/)
+ * [Extension/File Signature database](https://www.garykessler.net/library/file_sigs.html)
+ * [Ployglot Files - Multiple Types of Files](https://medium.com/swlh/polyglot-files-a-hackers-best-friend-850bf812dd8a)
+ * [Zip File Format](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip.html)
+ * [PNG File Format](http://www.libpng.org/pub/png/libpng.html)
+ * [CTF Resources (Great Site BTW](https://captf.com/practice-ctf/2)
+ * [Vagrant - For Building Images of Containers and VMs](https://www.vagrantup.com/)
+ * [Integer Factorization - On the Fly](https://www.alpertron.com.ar/ECM.HTM)
+ * [Integer Factorization - Pre calculated values](http://www.factordb.com)
+ * [PWNDevils](https://pwndevils.com/hacking/howtwohack.html)
  * 

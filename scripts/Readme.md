@@ -17,4 +17,12 @@ Possible Hashs:
  HASH:
 ```
 
+## LinPeas
 
+[Link](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite)
+Linpeas executes in about 2 Minutes
+The -a option requires 4 - 5 Minutes
+```
+./linpeas.sh -a
+./linpeas.sh
+```

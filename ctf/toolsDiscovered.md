@@ -24,4 +24,5 @@
 * pngcrush - A PNG image file checker
 * dd - Disk Digger Linux tool to extract bytes from any file
 * crc32 - A linux built in utility for calculating the CRC Value of PNG Chunks
-
+* pngdebugger - Used to check the CRC of every chunk
+* bmc-tools - RDP Bitmap Cache Parser 
