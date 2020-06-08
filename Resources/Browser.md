@@ -51,4 +51,14 @@ Browser
  * [Integer Factorization - On the Fly](https://www.alpertron.com.ar/ECM.HTM)
  * [Integer Factorization - Pre calculated values](http://www.factordb.com)
  * [PWNDevils](https://pwndevils.com/hacking/howtwohack.html)
- * 
+ * [Recon My way - Best resource for Recon](https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21)
+## JWT
+ * [JWT Critical Vulnerabilities](https://auth0.com/blog/critical-vulnerabilities-in-json-web-token-libraries/)
+ * [Hacking JSON Web Tokens - Medium](https://medium.com/101-writeups/hacking-json-web-token-jwt-233fe6c862e6)
+ * [JWT The Complete Guide - Helped me a lot](https://blog.angular-university.io/angular-jwt/)
+
+## SQL Injection
+ * [SQL Injection Payload List](https://medium.com/@ismailtasdelen/sql-injection-payload-list-b97656cfd66b)
+
+## Local File Inclusion
+ * [LFI WAPT - Medium](https://medium.com/@ismailtasdelen/sql-injection-payload-list-b97656cfd66b)

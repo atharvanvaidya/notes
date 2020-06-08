@@ -25,4 +25,6 @@
 * dd - Disk Digger Linux tool to extract bytes from any file
 * crc32 - A linux built in utility for calculating the CRC Value of PNG Chunks
 * pngdebugger - Used to check the CRC of every chunk
-* bmc-tools - RDP Bitmap Cache Parser 
+* bmc-tools - RDP Bitmap Cache Parser
+* Online Hex to File Converter [Tomeko.net](http://tomeko.net/online_tools/hex_to_file.php?lang=en)
+* stegoveritas - Another Stego tool to extract embedded files 
