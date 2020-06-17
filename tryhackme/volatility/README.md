@@ -25,10 +25,20 @@ Using the 'apihooks' command we can view unexpected patches in the standard syst
 
 malfind is used to find the injected (potential malicious) code and dump it into the specified directory : 
 ```
-volatility -f MEMORY_FILE.raw --profile=PROFILE malfind -D <Destination Directory>
+volatility -f MEMORY_FILE --profile=PROFILE malfind -D <Destination Directory>
 ```
 
 dlllist - View all of the DLLs loaded into memory. DLLs are shared system libraries utilized in system processes. These are commonly subjected to hijacking and other side-loading attacks.
+
+Dump files from the memory
+```
+volatility -f MEMORY_FILE --profile=PROFILE dumpfiles -Q ADDRESS -D OUTPUTDIRECTORY
+```
+
+Extract process from the memory
+```
+volatility -f MEMORY_FILE  --profile=PROFILE memdump -p PROCESSID -D OUTPUTDIRECTORY
+```
 
 ## Links
 

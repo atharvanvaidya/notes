@@ -26,3 +26,8 @@ The -a option requires 4 - 5 Minutes
 ./linpeas.sh -a
 ./linpeas.sh
 ```
+## ctfd.py
+Script to download all the challenges from the CTF Server, hosted using CTFd
+```
+python ctfd.py <CTF_URL> <OUTPUT_DIR> <USERNAME> <PASSWORD>
+```

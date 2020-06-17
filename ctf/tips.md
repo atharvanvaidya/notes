@@ -24,4 +24,9 @@ stty raw -echo
 fg
 < Press Enter Twice >
 ```
+enchant python library consists inbuilt dictionary
+qrencode 
+rainbowstream API to post to twitter
+jadx-gui
 
+## Search in the man page by typing /SEARCHQUERY
