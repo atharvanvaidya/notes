@@ -1,10 +1,12 @@
- # This file contains all the tweaks I found while writing and editing papers in latex
+# This file contains all the tweaks I found while writing and editing papers in latex
 
 ## I use texmaker for writing papers in latex and generating its pdf 
 
 * Writing paper in twocolumn format `svjour3`
 
 Always use `\sloppy` after the `\begin{document}` to avoid words getting out of any of the columns
+
+* Site to write latex equations [HostMath](https://www.hostmath.com/)
 
 * To assign caption to text
 
@@ -70,4 +72,31 @@ This is a good online latex equation editor. [Link](https://www.tutorialspoint.c
 * Switching from twocolumn to onecolumn and vice versa
 Use the following commands to toggle between twocolumn and onecolumn mode : `\twocolumn` and `\onecolumn`
 
+* [Wonderful tips for writing bibliography and citations](https://www.ece.ucdavis.edu/~jowens/biberrors.html)
+
+* Word wrap in multirow
+```
+\multirow{NoOfColumns}{2cm} instead of \multirow{NoOfColumns}{*}
+```
+* Horizontal line for selected columns
+\cline{3-5} for line from col 3 to 5(both inclusive)
+
+* Changing text color
+```
+\usepackage[dvipsnames]{xcolor}
+\textcolor{red}{the purpose of learning \LaTeX\ is great.}
+```
+* Decrease the gap between rows in table
+Add 
+``` \setlength\extrarowheight{-7pt} ``` 
+to decrease. Make the pt to positive to increase the default gap. This should be added before the *tabular*
+Requires to include 
+```
+\usepackage{array}
+```
+
+## Tips while writing paper.
+* Always specify the Full Form of any acronym for it's first occurence.
+* Club the Literature Survey into paragraphs which contain similar research. Reduce the no. of paragraphs.
+* Always store the bibliography in a .bib database. It can be found from the google scholar site. Just search the paper there.
 
