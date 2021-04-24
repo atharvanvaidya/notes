@@ -33,3 +33,13 @@ Team Microsoft. All Rights Reserved.
 ```
 rm -r ~/.config/pulse; pulseaudio -k
 ```
+
+## Source format of APT 
+```
+deb   http://http.kali.org/kali   kali-rolling   main non-free contrib
+<Archive>   <Mirror>                <Branch>         <Component>
+```
+- Archive is going to be deb (Regular Binary) or deb-src (Source), depending if you want a package or the source of the package.
+- Mirror should be http.kali.org/kali as this is our load balancer, which will direct you to best mirror.
+- Branch is what version of Kali you wish to use.
+- Component is what packages you wish to use, based on the Debian Free Software Guidelines (DFSG). Kali defaults to everything.
