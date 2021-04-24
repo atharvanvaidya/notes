@@ -43,3 +43,7 @@ deb   http://http.kali.org/kali   kali-rolling   main non-free contrib
 - Mirror should be http.kali.org/kali as this is our load balancer, which will direct you to best mirror.
 - Branch is what version of Kali you wish to use.
 - Component is what packages you wish to use, based on the Debian Free Software Guidelines (DFSG). Kali defaults to everything.
+
+## Virtualbox networking setup Complete guide
+
+A comprehensive guide. [Link](https://www.nakivo.com/blog/virtualbox-network-setting-guide/)
